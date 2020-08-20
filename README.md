@@ -1,6 +1,6 @@
-## CPP-CNN
+## LeNet-CNN
 
-A C++ implementation of the popular LeNet convolutional neural network architecture. Currently it trains on the Kaggle Digit Recognizer challenge data and gives 0.973 accuracy on the leaderboard. At the time of writing this, I got a rank of 1414 using this model. The results csv file can be found in the `best-results/` directory.
+A C++ implementation of the popular LeNet convolutional neural network architecture. This example trains on the Kaggle Digit Recognizer dataset - which can be downloaded from [here](https://www.kaggle.com/c/digit-recognizer/data)
 
 ### Prerequisites for building and running the model
 
