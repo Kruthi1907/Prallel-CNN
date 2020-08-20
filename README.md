@@ -15,7 +15,7 @@ This repos was successfully tested in Linux, Ubuntu 18.04
 
 ### Building and Running the LeNet on the Digit Recognizer dataset
 
-1. Clone this repository. `git clone https://github.com/plantsandbuildings/cpp-cnn`
+1. Clone this repository. `https://github.com/MattLondon101/LeNet-CNN.git`
 2. `cd` into the project root (`cd cpp-cnn`) and create the build and data directories using `mkdir build data`.
 3. Copy the Kaggle Digit Recognizer dataset into the `data` directory. The `data` directory should now contain two CSV files -- `train.csv` and `test.csv`.
 4. `cd` into the build directory (`cd build`) and configure the build using `cmake ../` This will generate a `Makefile` to build the project.
